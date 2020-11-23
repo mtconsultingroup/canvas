@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://trycanvas.app">
-        <img src=".github/assets/header.png" alt="Canvas">
+        <img src="https://github.com/austintoddj/canvas/.github/assets/header.png" alt="Canvas">
     </a>
 </p>
 
@@ -40,7 +40,7 @@ Canvas is a fully open source package to extend your existing [Laravel](https://
 You may use composer to install Canvas into your Laravel project:
 
 ```bash
-composer require austintoddj/canvas
+composer require mtconsultingroup/canvas
 ```
 
 Publish the assets and primary configuration file using the `canvas:install` Artisan command:
